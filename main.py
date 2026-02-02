@@ -44,6 +44,6 @@ for index,value in enumerate(images):
     arr_image.append(image)
     arr_image_index.append(image_id)
 
-from PIL import Image
-
 #scan each image. for each image find the image indexes that match
+
+
